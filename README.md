@@ -1,2 +1,4 @@
-move hypr, rofi, waybar and dunst directories to .config
+These are my hyprland configuration files
+
+move hypr, rofi, waybar and dunst directories to .config  
 place wallpaper images in ~/Pictures
