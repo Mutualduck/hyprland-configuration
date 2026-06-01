@@ -57,6 +57,7 @@
         "format": "  {percentage}% ",
         "max-length": 20
     },
+	/* my disk module shows free space instead of used space, which is why I have a minus sign in the format */
     "disk": {
         "interval": 30,
 	"format": "   –{free} "
