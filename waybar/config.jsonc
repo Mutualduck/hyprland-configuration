@@ -1,3 +1,7 @@
+
+/* --------------------------------------------------------------------------
+ https://github.com/Alexays/Waybar/wiki/Configuration
+ -------------------------------------------------------------------------- */
 {
     "layer": "top",
     "modules-left": ["disk", "memory", "cpu", "hyprland/workspaces"],
@@ -11,8 +15,6 @@
         "format-icons": ["", "", "", "", ""]
     },
     "clock": {
-        /*"format": " {:%H:%M} ",*/
-        /*"format": "   {:%H:%M} ",*/
         "format-alt": " {:%a %d / %m | %R} ",
         "format": " {:%d | %R} ",
         "tooltip-format": "<tt>{calendar}</tt>",
@@ -48,7 +50,6 @@
     },
     "cpu": {
         "interval": 1,
-        /*"format": "  {avg_frequency}GHz | {usage}% "*/
         "format": "  {usage}% "
     },
     "memory": {
@@ -61,7 +62,6 @@
 	"format": "   –{free} "
     },
     "backlight": {
-        //"device": "intel_backlight",
         "format": " {icon} {percent} ",
         "format-icons": ["", ""]
     },
