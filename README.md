@@ -7,5 +7,5 @@
 Hyprland configuration files
 
 place images in ~/Pictures (ignore the images directory)  
-Add this line to kitty.conf to use the theme in kitty/current-them.conf:  
+Add this line to kitty.conf to use the theme in kitty/current-theme.conf:  
 `include current-theme.conf`
