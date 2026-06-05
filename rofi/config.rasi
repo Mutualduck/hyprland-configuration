@@ -11,14 +11,14 @@
     fg-color: #FFFFFFFF;
     fgp-color: #888888FF;
     b-radius: 8px;
-    g-padding: 6px;
+    g-padding: 4px;
     hl-color: #A6AFF7FF;
     hlt-color: #000000FF;
     alt-color: #111111FF;
     wbg-color: #000000CC;
     w-border: 2px solid;
     w-border-color: #A6AFF7FF;
-    w-padding: 12px;
+    w-padding: 4px;
 }
 
 configuration {
@@ -29,7 +29,7 @@ configuration {
 
 listview {
     columns: 1;
-    lines: 7;
+    lines: 4;
     fixed-height: true;
     fixed-columns: true;
     cycle: false;
