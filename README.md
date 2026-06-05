@@ -2,7 +2,6 @@
 ![hyprland setup screenshot](images/2026-06-01-165832_hyprshot.png)
 ![hyprland setup screenshot](images/2026-06-01-165840_hyprshot.png)
 ![hyprland setup screenshot](images/2026-06-01-170545_hyprshot.png)
-![hyprland setup screenshot](images/2026-06-01-170150_hyprshot.png)
 ![hyprlock appearance](images/IMG_20260601_170636_125.jpg)
 Hyprland configuration files
 
